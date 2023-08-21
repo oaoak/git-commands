@@ -245,7 +245,7 @@ git branch
 ---
 ## Resources
 
-###My favorite one :
+My favorite one :
 * [Git commands](https://git-scm.com/docs) : Actually the original git website could already tell what I need.
 ---
 * [Pro Git Online Book][ProGit] Chapters 2 & 3 contain the essentials. Downloadable e-book is available, too. 
