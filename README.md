@@ -232,26 +232,26 @@ git reset HEAD a.py
 
 ## Branch and Merge
 
-* ###Delete branch
+###Delete branch
 ```
 git branch -d branchname
 ```
-* ###Show all branches and their status
+###Show all branches and their status
 ```
 git branch -av
 ```
-* ###Merge message
+###Merge message
 ```
 git merge <branchname> -m "message"
 ```
-* ###Abort merge
+###Abort merge
 ```
 git merg --abort
 ```
 
 ## Favorites
 
-* ###Always check branch
+###Always check branch
 ```
 git branch ne-branch
 git branch
@@ -264,7 +264,7 @@ git branch
 ---
 ## Resources
 
-* ###My favorite one :
+###My favorite one :
 * [Git commands](https://git-scm.com/docs) : Actually the original git website could already tell what I need.
 ---
 * [Pro Git Online Book][ProGit] Chapters 2 & 3 contain the essentials. Downloadable e-book is available, too. 
