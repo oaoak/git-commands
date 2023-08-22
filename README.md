@@ -227,7 +227,7 @@ git merge <branchname> -m "message"
 ```
 * Abort merge
 ```
-git merg --abort
+git merge --abort
 ```
 
 ## Favorites
