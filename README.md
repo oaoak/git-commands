@@ -25,7 +25,8 @@ In this file, directory paths are written with a forward slash as on MacOS, Linu
    ```
    * Working copy - 
    ``` 
-   It is a clone of your local repository.
+   It is a copy of repository which you are working on 
+   and making changes.
    ```
    * master -
    ```
