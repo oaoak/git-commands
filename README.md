@@ -1,8 +1,6 @@
-# git-commands
+## Git Hacks
 
-## Common Git Commands
-
-	Check status of the repo:
-	```
-	git status
-	```
+Undo changes in working directory:
+```
+git reset --hard
+```
