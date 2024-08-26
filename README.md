@@ -1,6 +1,15 @@
-## Git Hacks
+# Basic Git
 
-Undo changes in working directory:
+## Common Git Commands
+
+Check status of the repo:
 ```
-git reset --hard
+git status
 ```
+
+Shows the commit history:
+```
+git log
+```
+    
+
